@@ -71,7 +71,7 @@ botonTijera.onclick = () => {
 }
 
 
-//MËTODOS
+//METODOS
 const decidirPuntaje = () => {
     if (eleccionComputadora == "piedra") {
 
